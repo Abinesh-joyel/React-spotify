@@ -1,0 +1,18 @@
+.storycontainer{
+  min-height: 140px !important;
+}
+
+.storycontainer p{
+  text-align: right;
+}
+
+.storythumb{
+  float: left;
+  margin-right: 10px;
+  width: 120px;
+  height: 120px;
+}
+
+.storythumb img{
+  width: 100%;
+}
